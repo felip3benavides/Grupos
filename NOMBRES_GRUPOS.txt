@@ -9,6 +9,9 @@ Integrante 2
 ..
 
 GRUPO EUROSTAG.
+Integrante 1
+Integrante 2
 
+Y así sucesivamente. Deben mantener el orden de los grupos, por tanto el texto que escriban debe estar en una posición específica. Claro, para ello deberán tener en cuenta el orden de presentación y el número de grupos que encuentren previamente diligenciados.
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
