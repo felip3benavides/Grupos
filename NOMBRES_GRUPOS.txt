@@ -1,17 +1,41 @@
-TÉCNICAS COMPUTACIONALES
+﻿TÉCNICAS COMPUTACIONALES
+
+
 Alexander Molina Cabrera
 
-En éste archivo cada grupo deberá ubicar su información después de las XXXXX, en el mismo orden en el que fueron organizados los grupos para efectos de la sustentación. Es decir, algo así:
+
+
+En éste archivo cada grupo deberá ubicar su información después de las XXXXx
+en el mismo orden en el que fueron organizados los grupos para efectos de la sustentación.
+Es decir, algo así:
+
+
 
 GRUPO PSST-PYTHON
+
+
 Integrante 1
+
 Integrante 2
 ..
 
+
+
 GRUPO EUROSTAG.
+
 Integrante 1
+
 Integrante 2
 
-Y así sucesivamente. Deben mantener el orden de los grupos, por tanto el texto que escriban debe estar en una posición específica. Claro, para ello deberán tener en cuenta el orden de presentación y el número de grupos que encuentren previamente diligenciados.
 
+
+Y así sucesivamente.
+
+Deben mantener el orden de los grupos, por tanto el texto que escriban debe estar en una posición específica.
+Claro, para ello deberán tener en cuenta el orden de presentación y el número de grupos
+que encuentren previamente diligenciados.
+
+
+
+poner los nombres a partir de aquí
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
