@@ -27,7 +27,11 @@ Integrante 1
 
 Integrante 2
 
-
+SymsPowerSystems
+Rodrigo Pelaez 
+Luis miguel rios 
+Andres Felipe Ordonez 
+Camilo mejia 
 
 Y así sucesivamente.
 
